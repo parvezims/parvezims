@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Thats great! Please connect with me parvez.ims@gmail.com
+Please connect with me parvez.ims@gmail.com
 
 <!---
 parvezims/parvezims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
