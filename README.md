@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @parvezims
+- 👋 Hi, I’m Mohammad Parvez 
 
 
 Please connect with me parvez.ims@gmail.com
 
-<!---
-parvezims/parvezims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Leetcode Profile: https://leetcode.com/parvezims/
+LinkedIn Profile: https://www.linkedin.com/in/parvezims/
+
